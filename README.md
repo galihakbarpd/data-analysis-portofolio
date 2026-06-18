@@ -1,6 +1,5 @@
 # data-analysis-portofolio
-Data Analyst Portfolio: 
-Galih Akbar Pujangga Dewa
+Data Analyst Portfolio:
 Transforming Complex Data into Meaningful Insights and Business Value
 
 Welcome to my Data Analysis portfolio! Here you’ll find projects showcasing my skills in Python, data visualization, machine learning, and more.
